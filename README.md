@@ -2,7 +2,7 @@
 
 **Master's Research Project**
 
-**COURSE LEARNING OUTCOMES ** 
+**COURSE LEARNING OUTCOMES** 
 
 At the end of this course, students will be able to:
 
